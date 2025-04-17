@@ -90,3 +90,5 @@ goals:
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/Ajibose/Ajibose/output/github-contribution-grid-snake.svg)
+
+![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient&height=135&section=header&text=Hi%20there&fontSize=90&reversal=true)
