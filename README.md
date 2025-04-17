@@ -1,17 +1,78 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<!--
-**Ajibose/Ajibose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient&height=135&section=header&text=Hi%20there&fontSize=90)
+<h1 align="center">Let's Connect and Chat</h1>
+<div align="center">
+  <a href="https://linkedin.com/in/ibrahim-ajibose">
+    <img height="50" src="https://github.com/user-attachments/assets/fdc79c6c-b676-4f65-89c8-2a1097569a41" alt="LinkedIn"/>
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://x.com/IbrahimOyebami">
+    <img height="50" src="https://github.com/user-attachments/assets/4ccadc57-1ac2-45ae-ba23-d4a4446df3d9" alt="X"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:ajiboseibrahim12@gmail.com">
+    <img height="50" src="https://github.com/user-attachments/assets/0de7e5ad-9f1f-405b-997e-5b66343f9d8b" alt="Gmail"/>
+  </a>
+  
+  <a href="https://wa.me/2349028391921">
+    <img height="50" src="https://github.com/user-attachments/assets/29b8517e-b7f2-4d7f-b604-83871a6b6d3b" alt="WhatsApp"/>
+  </a>
+</div>
+
+## 🧾 A Little About Me
+
+```yaml
+name: Ibrahim Ajibose
+role: Backend Developer
+specialty: Building scalable APIs, backend systems and AI powered applications
+location: Lagos, Nigeria.
+education:
+  [
+    "Software Engineering @ALX Africa",
+    "Bachelor's in Electronics and Electronics Technology Education",
+  ]
+interests:
+  [
+    "Web Development",
+    "AI powered Applications",
+    "Real-time Applications",
+    "System Design",
+    "Open Source",
+    "compiler Design",
+    "Internet of Things (IoT)"
+  ]
+currently_learning:
+  [
+    "Compiler Design",
+    "LangChain",
+    "Docker and Kubernetes",
+    "Frontend"
+  ]
+goals:
+  [
+    "Contribute to impactful projects",
+    "Collaborate with amazing devs",
+    "Keep leveling up daily 🚀"
+  ]
+```
+
+## 🧰 My Tech ToolBox (Used and Currently Learning)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bbbf5b8e-d700-4a38-90d2-0f9201898a8c" alt="python" wdth="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Language" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
+</p>
 
