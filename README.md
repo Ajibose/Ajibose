@@ -89,4 +89,4 @@ goals:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajibose&layout=compact&hide_progress=false&theme=radical" />
 </a>
 
-![Snake animation](https://github.com/Ajibose/Ajibose/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ajibose/Ajibose/output/github-contribution-grid-snake.svg)
