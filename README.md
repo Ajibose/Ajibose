@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient&height=135&section=header&text=Hi%20there&fontSize=90)
+<p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving\&color=gradient&height=135&section=header&text=Hi%20there&fontSize=90"
+    alt="header"
+  />
+</p>
 <h1 align="center">Let's Connect and Chat</h1>
 <div align="center">
   <a href="https://linkedin.com/in/ibrahim-ajibose">
@@ -90,5 +95,3 @@ goals:
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/Ajibose/Ajibose/output/github-contribution-grid-snake.svg)
-
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient&height=135&section=header&text=Hi%20there&fontSize=90&reversal=true)
