@@ -18,6 +18,7 @@
   </a>
 </div>
 
+
 ## 🧾 A Little About Me
 
 ```yaml
@@ -55,14 +56,16 @@ goals:
   ]
 ```
 
+
 ## 🧰 My Tech ToolBox (Used and Currently Learning)
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/bbbf5b8e-d700-4a38-90d2-0f9201898a8c" alt="python" wdth="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" wdth="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Language" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodeJS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Django" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
@@ -76,3 +79,14 @@ goals:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
 </p>
 
+
+## 🕰️ My GitHub History
+
+<a href="https://github.com/Ajibose/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajibose&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Ajibose/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajibose&layout=compact&hide_progress=false&theme=radical" />
+</a>
+
+![Snake animation](https://github.com/Ajibose/Ajibose/blob/output/github-contribution-grid-snake.svg)
