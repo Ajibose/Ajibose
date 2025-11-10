@@ -21,9 +21,8 @@ I'm a Backend Engineer based in **Lagos, Nigeria**, specializing in building and
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Brandflare (Case Study)**| An AI name generator with a high-performance **Redis cache**. | `Node.js`, `Express`, `OpenAI`, `Redis` |
+| **DomainNudge (Case Study)**| An AI name generator with a high-performance **Redis cache**. | `Node.js`, `Express`, `OpenAI`, `Redis` |
 | **Thera (Public)** | An AI soul companion with a **vector search** backend. | `Node.js`, `Express`, `LangChain` |
-| **DomainNudge (Case Study)**| An AI-powered domain generator with 5+ API integrations. | `Node.js`, `Express`, `OpenAI` |
 | **Catalyze (VynixLabs)** | **(Pro) Engineered the FinTech crypto-fiat conversion engine.** | `Node.js`, `TypeScript`, `fastify`, `Monnify` |
 | **OpenTask (VynixLabs)** | **(Pro) Built tRPC APIs for a decentralized Starknet platform.** | `TypeScript`, `tRPC`, `Starknet` |
 
