@@ -1,6 +1,6 @@
 # Hi, I'm Ajibose Ibrahim Oyebami 👋
 
-I'm a Backend Engineer specializing in building and deploying **AI-powered applications.** I am proficient in **Python** and **Node.js**, with hands-on experience in **LLMs (LangChain, OpenAI)**, **high-performance caching (Redis)**, and building production-grade backend systems.
+I'm a Backend Engineer based in **Lagos, Nigeria**, specializing in building and deploying **AI-powered applications.** I am proficient in **Python** and **Node.js**, with hands-on experience in **LLMs (LangChain, OpenAI)**, **high-performance caching (Redis)**, and building production-grade backend systems.
 
 ---
 
