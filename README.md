@@ -31,5 +31,16 @@ I'm a Backend Engineer specializing in building and deploying **AI-powered appli
 
 ### 📫 How to reach me:
 
-* **LinkedIn:** `[Your LinkedIn URL]`
-* **Email:** `[Your Email]`
+* **LinkedIn:** [https://www.linkedin.com/in/ibrahim-ajibose/](https://www.linkedin.com/in/ibrahim-ajibose/)
+* **Email:** [ajiboseibrahim12@gmail.com](ajiboseibrahim12@gmail.com)
+
+## 🕰️ My GitHub History
+
+<a href="https://github.com/Ajibose/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajibose&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Ajibose/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajibose&layout=compact&hide_progress=false&theme=radical" />
+</a>
+
+![Snake animation](https://raw.githubusercontent.com/Ajibose/Ajibose/output/github-contribution-grid-snake.svg)
